@@ -1,0 +1,56 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}Chapter 1: Introduction}{5}{chapter.1}%
+\contentsline {section}{\numberline {1.1}1.1 Standardization Landscape}{6}{section.1.1}%
+\contentsline {section}{\numberline {1.2}1.2 Access Networks}{7}{section.1.2}%
+\contentsline {section}{\numberline {1.3}1.3 Managed Cloud Service}{8}{section.1.3}%
+\contentsline {section}{\numberline {1.4}1.4 Beyond 5G}{11}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Chapter 2: Architecture}{13}{chapter.2}%
+\contentsline {section}{\numberline {2.1}2.1 Overview}{13}{section.2.1}%
+\contentsline {section}{\numberline {2.2}2.2 Radio Transmission}{16}{section.2.2}%
+\contentsline {section}{\numberline {2.3}2.3 Radio Access Network}{17}{section.2.3}%
+\contentsline {section}{\numberline {2.4}2.4 Mobile Core}{20}{section.2.4}%
+\contentsline {section}{\numberline {2.5}2.5 Managed Cloud Service}{23}{section.2.5}%
+\contentsline {chapter}{\numberline {3}Chapter 3: Radio Transmission}{25}{chapter.3}%
+\contentsline {section}{\numberline {3.1}3.1 Coding and Modulation}{25}{section.3.1}%
+\contentsline {section}{\numberline {3.2}3.2 Scheduler}{27}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}3.2.1 Multiplexing in 4G}{28}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}3.2.2 Multiplexing in 5G}{29}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}3.3 Virtualized Scheduler (Slicing)}{31}{section.3.3}%
+\contentsline {section}{\numberline {3.4}3.4 New Use Cases}{32}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Chapter 4: Radio Access Network}{35}{chapter.4}%
+\contentsline {section}{\numberline {4.1}4.1 Packet Processing Pipeline}{35}{section.4.1}%
+\contentsline {section}{\numberline {4.2}4.2 Split RAN}{36}{section.4.2}%
+\contentsline {section}{\numberline {4.3}4.3 Software\sphinxhyphen {}Defined RAN}{39}{section.4.3}%
+\contentsline {section}{\numberline {4.4}4.4 Near Real\sphinxhyphen {}Time RIC}{42}{section.4.4}%
+\contentsline {section}{\numberline {4.5}4.5 Control Loops}{44}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Chapter 5: Mobile Core}{47}{chapter.5}%
+\contentsline {section}{\numberline {5.1}5.1 Identity Management}{47}{section.5.1}%
+\contentsline {section}{\numberline {5.2}5.2 Functional Components}{49}{section.5.2}%
+\contentsline {section}{\numberline {5.3}5.3 Control Plane}{51}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}5.3.1 SD\sphinxhyphen {}Core}{51}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}5.3.2 Magma}{52}{subsection.5.3.2}%
+\contentsline {section}{\numberline {5.4}5.4 User Plane}{56}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}5.4.1 Microservice Implementation}{57}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}5.4.2 P4 Implementation}{57}{subsection.5.4.2}%
+\contentsline {chapter}{\numberline {6}Chapter 6: Managed Cloud Service}{61}{chapter.6}%
+\contentsline {section}{\numberline {6.1}6.1 Building Blocks}{61}{section.6.1}%
+\contentsline {section}{\numberline {6.2}6.2 Example Deployment}{64}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}6.2.1 Edge Cloud}{64}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}6.2.2 Hybrid Cloud}{65}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}6.2.3 Stakeholders}{66}{subsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.2.4}6.2.4 Alternative Configurations}{66}{subsection.6.2.4}%
+\contentsline {section}{\numberline {6.3}6.3 Cloud Management Platform}{67}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}6.3.1 Resource Provisioning}{69}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}6.3.2 Lifecycle Management}{70}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}6.3.3 Service Orchestration}{71}{subsection.6.3.3}%
+\contentsline {subsection}{\numberline {6.3.4}6.3.4 Monitoring and Telemetry}{73}{subsection.6.3.4}%
+\contentsline {section}{\numberline {6.4}6.4 Connectivity API}{74}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}6.4.1 Enterprises}{74}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}6.4.2 Slices}{75}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.4.3}6.4.3 QoS Profiles}{76}{subsection.6.4.3}%
+\contentsline {subsection}{\numberline {6.4.4}6.4.4 Other Models}{77}{subsection.6.4.4}%
+\contentsline {chapter}{\numberline {7}About The Book}{79}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Read the Book}{80}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Build the Book}{80}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Contribute to the Book}{80}{section.7.3}%
+\contentsline {chapter}{\numberline {8}About The Authors}{81}{chapter.8}%
